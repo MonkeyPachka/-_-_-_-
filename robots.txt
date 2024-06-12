@@ -1,0 +1,4 @@
+User-agent: 
+Crawl-delay: 1
+Host: https://monkeypachka.github.io/Libraries-of-Nakhodka/
+Sitemap: http://https://monkeypachka.github.io/Libraries-of-Nakhodka/sitemap.xml
